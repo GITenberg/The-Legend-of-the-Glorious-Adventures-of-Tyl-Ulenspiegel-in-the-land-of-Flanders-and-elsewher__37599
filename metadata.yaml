@@ -1,0 +1,46 @@
+_repo: The-Legend-of-the-Glorious-Adventures-of-Tyl-Ulenspiegel-in-the-land-of-Flanders-and-elsewher__37599
+_version: 0.1.0
+alternative_title: Légende d'Ulenspiegel. English
+contributor:
+  illustrator:
+    agent_name: Delstanche, Albert
+    gutenberg_agent_id: '38944'
+    url: http://www.gutenberg.org/2009/agents/38944
+  translator:
+    agent_name: Whitworth, Geoffrey Arundel
+    birthdate: 1883
+    deathdate: 1951
+    gutenberg_agent_id: '38945'
+    url: http://www.gutenberg.org/2009/agents/38945
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coster, Charles de
+    aliases:
+    - Coster, Charles Théodore Henri de
+    - DeCoster, Charles Théodore Henri
+    - Coster, Charles Theodore Henri de
+    birthdate: 1827
+    deathdate: 1879
+    gutenberg_agent_id: '3883'
+    url: http://www.gutenberg.org/2009/agents/3883
+    wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Eulenspiegel (Satire) -- Legends'
+title: The Legend of the Glorious Adventures of Tyl Ulenspiegel in the land of Flanders
+  and elsewhere
+url: http://www.gutenberg.org/ebooks/37599

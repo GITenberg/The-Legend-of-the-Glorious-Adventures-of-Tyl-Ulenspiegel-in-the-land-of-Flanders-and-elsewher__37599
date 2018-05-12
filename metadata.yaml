@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3883
     wikipedia: http://en.wikipedia.org/wiki/Charles_De_Coster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37599#The-Legend-of-the-Glorious-Adventures-of-Tyl-Ulenspiegel-in-the-land-of-Flanders-and-elsewher_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-10-02'
 gutenberg_type: Text
